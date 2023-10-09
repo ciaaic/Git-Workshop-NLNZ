@@ -1,4 +1,5 @@
 # Git-Workshop-NLNZ
 workshop test
 testing a change
-[My Github Profile](github.com/ciaaic)
+[My Github Profile]
+(https://github.com/ciaaic/Git-Workshop)
